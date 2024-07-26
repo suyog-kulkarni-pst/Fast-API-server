@@ -1,7 +1,13 @@
 # Fast-API-server
 Dummy API server to test your API locally
 
-Can create dummy api servers using this just update the **db.json** file with the api you want to test and use it 
+### TODO
+- [ ] Add support for lists
+- [ ] Add multi-obj support (currently only supports dicts)
+- [ ] Unit testing
+- [ ] PRobably hot it somewhere (thinking about Firebase can do uptime robot with Replit or Cloudflare let's see)
+
+Can create dummy API servers using this just update the **db.json** file with the API you want to test and use it 
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/b49b3201-8c80-40f6-9fe6-759268dac104">
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/9ee86328-f394-44fa-87ff-59d4181be428">
