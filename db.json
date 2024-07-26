@@ -1,0 +1,175 @@
+{
+    "company": {
+      "name": "Tech Solutions Inc.",
+      "address": {
+        "street": "123 Innovation Drive",
+        "city": "Tech City",
+        "state": "CA",
+        "postalCode": "90001"
+      },
+      "departments": [
+        {
+          "name": "Engineering",
+          "employees": [
+            {
+              "id": 1,
+              "name": "Alice Smith",
+              "role": "Software Engineer",
+              "contact": {
+                "email": "alice.smith@techsolutions.com",
+                "phone": "123-456-7890"
+              },
+              "skills": [
+                "Python",
+                "Docker",
+                "Kubernetes",
+                "CI/CD"
+              ],
+              "projects": [
+                {
+                  "name": "Project Alpha",
+                  "status": "In Progress",
+                  "deadline": "2024-09-30"
+                },
+                {
+                  "name": "Project Beta",
+                  "status": "Completed",
+                  "deadline": "2023-12-15"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "name": "Bob Johnson",
+              "role": "Data Engineer",
+              "contact": {
+                "email": "bob.johnson@techsolutions.com",
+                "phone": "123-456-7891"
+              },
+              "skills": [
+                "SQL",
+                "Apache Airflow",
+                "Data Warehousing",
+                "ETL"
+              ],
+              "projects": [
+                {
+                  "name": "Project Gamma",
+                  "status": "In Progress",
+                  "deadline": "2024-11-01"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Marketing",
+          "employees": [
+            {
+              "id": 3,
+              "name": "Carol White",
+              "role": "Marketing Manager",
+              "contact": {
+                "email": "carol.white@techsolutions.com",
+                "phone": "123-456-7892"
+              },
+              "skills": [
+                "SEO",
+                "Content Strategy",
+                "Social Media Marketing"
+              ],
+              "projects": [
+                {
+                  "name": "Campaign Delta",
+                  "status": "Planning",
+                  "deadline": "2024-08-15"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "id": 101,
+          "name": "Product X",
+          "category": "Software",
+          "price": 499.99,
+          "releaseDate": "2023-01-20",
+          "features": {
+            "feature1": "User-friendly interface",
+            "feature2": "Seamless integration",
+            "feature3": "High performance"
+          },
+          "tags": ["innovative", "efficient", "scalable"]
+        },
+        {
+          "id": 102,
+          "name": "Product Y",
+          "category": "Hardware",
+          "price": 999.99,
+          "releaseDate": "2024-05-10",
+          "features": {
+            "feature1": "Durable design",
+            "feature2": "Energy efficient",
+            "feature3": "High compatibility"
+          },
+          "tags": ["robust", "eco-friendly", "reliable"]
+        }
+      ]
+    },
+    "partners": [
+      {
+        "id": "P1",
+        "name": "Partner A",
+        "industry": "IT Services",
+        "contact": {
+          "email": "contact@partnera.com",
+          "phone": "987-654-3210"
+        },
+        "collaborationProjects": [
+          {
+            "name": "Joint Venture 1",
+            "role": "Co-developer",
+            "status": "Active",
+            "startDate": "2023-04-01",
+            "endDate": "2024-04-01"
+          }
+        ]
+      },
+      {
+        "id": "P2",
+        "name": "Partner B",
+        "industry": "Marketing",
+        "contact": {
+          "email": "contact@partnerb.com",
+          "phone": "987-654-3211"
+        },
+        "collaborationProjects": [
+          {
+            "name": "Campaign Epsilon",
+            "role": "Marketing Partner",
+            "status": "Planned",
+            "startDate": "2024-06-01",
+            "endDate": "2025-06-01"
+          }
+        ]
+      }
+    ],
+    "financials": {
+      "fiscalYear": 2023,
+      "revenue": 10000000,
+      "expenses": 7500000,
+      "netIncome": 2500000,
+      "assets": {
+        "cash": 5000000,
+        "inventory": 2000000,
+        "property": 3000000
+      },
+      "liabilities": {
+        "loans": 1000000,
+        "accountsPayable": 1500000
+      }
+    }
+  }
+  
