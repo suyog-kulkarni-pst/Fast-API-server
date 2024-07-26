@@ -5,7 +5,7 @@ Dummy API server to test your API locally
 - [ ] setup process
 - [ ] Add multi-obj support (currently only supports dicts)
 - [ ] Unit testing
-- [ ] PRobably hot it somewhere (thinking about Firebase can do uptime robot with Replit or Cloudflare let's see)
+- [ ] PRobably host it somewhere (thinking about Firebase can do uptime robot with Replit or Cloudflare let's see)
 
 Can create dummy API servers using this just update the **db.json** file with the API you want to test and use it 
 
