@@ -1,5 +1,5 @@
 # Fast-API-server
-Dummy API server to test your API locally
+Fake API server to test your API locally
 
 ### TODO
 - [ ] setup process
